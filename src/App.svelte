@@ -1,10 +1,10 @@
 <script>
-	export let name;
+	import HolidayList from "./components/HolidayList.svelte";
 </script>
 
 <main>
-	<h1>Hello {name}!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+	<h1>Hello! This is a list of Holidays in 2020</h1>
+	<HolidayList/>
 </main>
 
 <style>
@@ -18,7 +18,7 @@
 	h1 {
 		color: #ff3e00;
 		text-transform: uppercase;
-		font-size: 4em;
+		font-size: 3em;
 		font-weight: 100;
 	}
 
