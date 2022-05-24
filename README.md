@@ -1,4 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/9a83f154-1803-45ca-b65a-b7a8dc1c58c1.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/9a83f154-1803-45ca-b65a-b7a8dc1c58c1)
+exclusief research: die duurde intotaal zo ongeveer 13uur, gespreid over een week
 
 <hr style="border: 2px solid">
 
