@@ -16,7 +16,6 @@
 	<h1>Hello! This is a list of Holidays in 2020</h1>
 	<!-- Input field for searching -->
 	<input type="text" placeholder="Search for a holiday" bind:value={searchTerm} />
-	<!-- <input type="text" placeholder="Holiday name" bind:value={searchTerm}> -->
 	<HolidayList/>
 </main>
 
